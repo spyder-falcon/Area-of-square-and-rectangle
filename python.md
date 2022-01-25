@@ -1,8 +1,9 @@
-
-
-
-
+# Windows 
+```
+https://www.python.org/downloads/
+```
+# ubuntu
 
 ```
-sudo apt install
+sudo apt install python3
 ```
