@@ -3,6 +3,17 @@ To Find Area of Square and Rectangle
 ```
 https://github.com/spyder-falcon/Area-of-square-and-rectangle.git
 ```
+## OUTPUT
+```
+Find Area of Square,rectangel
+
+Input Length:
+Input Breadth:
+
+------result------------
+
+Press Enter To Exit
+```
 
 <div align="center">
   <table align="center" border="0" >
